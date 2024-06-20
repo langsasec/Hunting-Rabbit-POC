@@ -5,6 +5,9 @@ Hunting-Rabbit-VulScanner 官方POC库, 使用Hunting-Rabbit-POC-Generator生成
 
 https://github.com/langsasec/Hunting-Rabbit-POC-Generator
 
+<<<<<<< HEAD
 https://gitee.com/langsasec/Hunting-Rabbit-POC-Generator
 
+=======
+>>>>>>> ea3068c (新增poc)
 欢迎贡献！
